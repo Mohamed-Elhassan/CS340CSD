@@ -1,10 +1,10 @@
 # CS340CSD
 
-Writing Maintainable, Readable, and Adaptable Code
+Writing Maintainable, Readable, and Adaptable Code - 
 In developing maintainable, readable, and adaptable code, I focused on clean architecture and modularity. Specifically, the CRUD Python module from Project One served as a central component for handling database operations, which was then integrated into the dashboard in Project Two. The primary advantage of this approach was the separation of concerns: by isolating database interactions within the CRUD module, I could easily modify or extend database functionality without altering the main dashboard code. Additionally, following consistent naming conventions, adding meaningful comments, and adhering to Pythonic best practices made the codebase easier to navigate and maintain. In the future, this CRUD module could be reused or modified for other applications, especially in projects that require similar database interactions, reducing development time and effort.
 
-Problem-Solving Approach in Computer Science
+Problem-Solving Approach in Computer Science - 
 When approaching problems as a computer scientist, I break down each requirement and tackle it systematically. For instance, with Grazioso Salvare's database and dashboard requirements, I began by understanding the specific functionalities requested, such as data retrieval and updates. Then, I focused on translating these requirements into functions within the CRUD module, ensuring that each database action had a corresponding method. Compared to previous projects, this one required greater emphasis on user interactivity and database responsiveness, pushing me to think about real-time data handling and user experience. Moving forward, I would prioritize early planning for database structure and functionality, especially for client-specific requirements, using diagrams and pseudocode to clarify design before coding.
 
-The Role and Impact of Computer Science
+The Role and Impact of Computer Science - 
 Computer scientists develop systems and software that solve real-world problems and improve operational efficiency. In this project, my work would enable a company like Grazioso Salvare to streamline their data management processes, making it easier for users to interact with and manipulate data through the dashboard interface. By ensuring data accuracy, consistency, and ease of use, my contribution would help the company focus on their core tasks with a reliable technological foundation, ultimately enhancing productivity and decision-making capabilities.
